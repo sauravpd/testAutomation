@@ -7,11 +7,11 @@ import org.testng.annotations.Test;
  * @author saurav
  *
  */
-public class Test1 
+public class Test2 
 {
 	@Test
-	public void test1()
+	public void test2()
 	{
-		System.out.println("test1");
+		System.out.println("test2");
 	}
 }
